@@ -1,0 +1,5 @@
+---
+username: ubuntu
+auto_security_group_id: sg-0006f489a797023f1
+server_id: i-0117c12b9dc9f2361
+hostname: ec2-34-254-156-196.eu-west-1.compute.amazonaws.com
